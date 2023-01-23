@@ -1,2 +1,2 @@
 example text
-feature main  
+feature main-2
